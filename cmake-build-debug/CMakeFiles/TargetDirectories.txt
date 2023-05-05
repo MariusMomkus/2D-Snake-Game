@@ -1,0 +1,3 @@
+C:/Users/mariu/Desktop/Perlaikymai/c++/Game c++ failed gave up/snake-game/cmake-build-debug/CMakeFiles/snake_game.dir
+C:/Users/mariu/Desktop/Perlaikymai/c++/Game c++ failed gave up/snake-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mariu/Desktop/Perlaikymai/c++/Game c++ failed gave up/snake-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

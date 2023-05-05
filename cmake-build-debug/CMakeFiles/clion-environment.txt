@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\Users\mariu\CLionProjects\SnakeExample\SFML_COMPILER\compiler610\mingw64
+Options: 
+
+Options:
